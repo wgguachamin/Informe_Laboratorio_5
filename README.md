@@ -132,3 +132,9 @@ https://www.youtube.com/watch?v=hEPnTBNMhE8
 - Dentro del Teorema de Thévenin a la fuente de voltaje se la conoce como el "voltaje de Thévenin", el (VTH) es el voltaje en circuito abierto entre las terminales del circuito para el cual se requiere el equivalente. Por otro lado, la resistencia en serie se le conoce como "resistencia de Thévenin", la (RTH) es la resistencia equivalente vista de la terminal del circuito, cabe mencionar que esto se realiza con respecto al equivalente de Thévenin y con las fuentes de alimentación en cero. 
 
 7. BIBLIOGRAFÍA
+
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+-	LATAM. (24 de Abril de 2021). Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/teorema-de-thevenin-y-norton/
+-	Mariño, S. (14 de Marzo de 2017). Obtenido de https://es.slideshare.net/norenelson/anlisis-lineas-cortas-medias-y-largas?next_slideshow=73134883
+-	Mi universo electrónico. (19 de Septiembre de 2020). Obtenido de https://miuniversoelectronico.com/el-teorema-de-thevenin/
+-	Obando, L. (10 de Noviembre de 2019). Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
