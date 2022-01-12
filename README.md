@@ -111,7 +111,12 @@ Para hallar voltaje y corriente en el circuito equivalente de Thévenin, al ser 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/93415377/149213611-f0b2640f-b924-4ef1-9767-5272fbf759b1.png)
+
+
 5. VIDEO
+
+https://www.youtube.com/watch?v=hEPnTBNMhE8
 
 6. CONCLUSIONES
 
