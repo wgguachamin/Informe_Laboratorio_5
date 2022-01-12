@@ -8,6 +8,10 @@ PRÁTICA N°05
 
 2. MARCO TEÓRICO
 
+2.1. TEOREMA DE THÉVENIN
+
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/94008521/149223551-11bdd5e3-4237-4407-bf25-181800b64476.png)
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 3.1. Arme el circuito que se muestra en la figura 5.1.
@@ -112,7 +116,6 @@ Para hallar voltaje y corriente en el circuito equivalente de Thévenin, al ser 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/93415377/149213611-f0b2640f-b924-4ef1-9767-5272fbf759b1.png)
-
 
 5. VIDEO
 
