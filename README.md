@@ -4,7 +4,12 @@ PRÁTICA N°05
 
 1.1. OBJETIVO GENERAL
 
+Comprobar experimentalmente el Teorema de Thévenin, mediante el ensamblamiento de un circuito mixto empleando la plataforma de tinkercad, para emplear los conocimientos adqueridos en clase y verificar el funcionamiento de este.
+
 1.2. OBJETIVOS ESPECÍFICOS
+
+- Determinar que establece el Teorema de Thévenin con respecto a los circuitos líneales de dos terminales.
+- Definir como se le conoce a la fuente de voltaje y la resistencia en serie dentro del Teorema de Thévenin.
 
 2. MARCO TEÓRICO
 
