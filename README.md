@@ -113,6 +113,10 @@ Y el voltaje en R5 es:
 
 ![image](https://user-images.githubusercontent.com/93960809/149159522-a0fe4066-e55e-4faa-9675-c419a3ba6225.png)
 
+Circuito en tinkercad con el potenciometro, sin embargo por la variación la resistencia de este componente es de 300 ohmios
+
+![image](https://user-images.githubusercontent.com/94008521/149387243-21d9eae8-d490-4177-b1fe-cae50ae299dc.png)
+
 Explicación: 
 
 Para hallar voltaje y corriente en el circuito equivalente de Thévenin, al ser un circuito resistivo en serie, sume y obtuve la resistencia total y con eso se halló el valor de corriente gracias a la ley de ohm, misma que al despejar el voltaje y reemplazando valores, nos ayudó a encontrar dicho voltaje que pasa por R5. 
